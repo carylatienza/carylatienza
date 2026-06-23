@@ -44,7 +44,7 @@
   <a href="https://github.com/carylatienza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://dev.to/carylatienzaa" target="_blank">
+  <a href="https://dev.to/carylatienza" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
   <a href="https://kaggle.com/carylatienzaa" target="_blank">
