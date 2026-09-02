@@ -1,6 +1,6 @@
 # Caryl Atienza
 
-> **Designer who became a developer.** Manila, Philippines.
+## **Designer who became a developer.** Manila, Philippines.
 
 Five years of freelance graphic design in Philippine esports before I wrote a line of code. Now a BS Information Technology student at PUP and a software engineering intern building agentic AI workflows. Still using the eye, just shipping code with it.
 
@@ -9,17 +9,22 @@ Five years of freelance graphic design in Philippine esports before I wrote a li
 ### Now
 
 - **ED3N Ventures** — Software Engineer Intern. Building and deploying agentic AI workflows with Claude.
-- **ReadiLY** — Full-stack. AI-powered oral literacy platform that turns 3-minute reading assessments into real-time diagnostics: live WPM tracking, student profiles, and error-pattern analysis across phonics, pacing, and comprehension.
 - **Seekers Guild** — Volunteers Lead. Student-led guild for builders across the Philippines. Hosting Founders Live Manila soon.
+
+### Building
+
+| | |
+|---|---|
+| [**ReadiLY**](https://github.com/carylatienza) | AI-powered oral reading intelligence system for ASEAN classrooms. Turns a 3-minute reading assessment into real-time diagnostics — live WPM tracking, student profiles, and error-pattern analysis across phonics, pacing, and comprehension. |
+| [**Fetch**](https://github.com/carylatienza/fetch-downloader) | High-performance, privacy-focused media extraction and downloading. Videos, audio, and multi-photo galleries in maximum original quality — no ads, no sign-ups. |
+| **Type A** | A calendar that fills itself. Upload your class schedule and it lays in the academic calendar, your classes, and national holidays automatically — plus a kanban board for coursework. |
 
 ### Selected work
 
 | | |
 |---|---|
-| **Barangay Comembo Blotter System** | Full-stack records system for incident logging, dashboards, and a citizen portal. Normalized MySQL schema with ERD/EERD docs. |
-| **Hotel Reservation System** | Project lead. Java Swing + MySQL — role-based auth, reservation conflict checking, automated billing. |
-| **DiaBeatThis** | UI/UX for a GenAI diabetic companion app. First runner-up, GenAI Philippines Agentic AI Hackathon 2025. |
-| **GDG PUP Nexus** | UI/UX. Member Showcase page and reusable Figma components. |
+| **DiaBeatThis** | UI/UX for a GenAI diabetic companion app — smartwatch, glucometer, and meal logging. First runner-up, GenAI Philippines Agentic AI Hackathon 2025. |
+| **GDG PUP Nexus** | UI/UX. Member Showcase page and reusable Figma components for GDG on Campus PUP's flagship site. |
 
 ### Stack
 
@@ -62,8 +67,10 @@ Freelance and in-house design across Philippine esports and gaming. Tournament g
 | **2022** | IPOPHL Socially Relevant Technologies — Champion |
 | **2022** | Indonesia Inventors Day — Gold Award |
 
-President's Lister, Polytechnic University of the Philippines.
-
 ---
 
-[Portfolio](https://oope-portfolio-carylatienzas-projects.vercel.app/) · [LinkedIn](https://linkedin.com/in/carylatienzaa) · [Behance](https://behance.net/carylatienzaa) · [Instagram](https://instagram.com/carylatienzaa) · carylatienzaa@gmail.com
+<a href="https://oope-portfolio-carylatienzas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1e2327?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/carylatienzaa"><img src="https://img.shields.io/badge/LinkedIn-1e2327?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://behance.net/carylatienzaa"><img src="https://img.shields.io/badge/Behance-1e2327?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+<a href="https://instagram.com/carylatienzaa"><img src="https://img.shields.io/badge/Instagram-1e2327?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:carylatienzaa@gmail.com"><img src="https://img.shields.io/badge/Email-1e2327?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
