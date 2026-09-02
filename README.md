@@ -1,6 +1,6 @@
-# Caryl Joy A. Atienza
+# Caryl Atienza
 
-**Designer who became a developer.** Manila, Philippines.
+> **Designer who became a developer.** Manila, Philippines.
 
 Five years of freelance graphic design in Philippine esports before I wrote a line of code. Now a BS Information Technology student at PUP and a software engineering intern building agentic AI workflows. Still using the eye, just shipping code with it.
 
@@ -31,15 +31,38 @@ From the design side:
 
 ### Before code
 
-Freelance and in-house design across Philippine esports and gaming — **Tencent Games** (2021–22, 2024), **ONIC Philippines**, **TNC Pro Team**, **MPL Philippines S15**, plus broadcast and caster branding. Tournament graphics, team identity, and social content shipped on tight turnarounds.
+Freelance and in-house design across Philippine esports and gaming. Tournament graphics, team identity, and social content shipped on tight turnarounds.
+
+| | |
+|---|---|
+| **Tencent Games** | Freelance Graphic Designer · 2021–22, 2024 |
+| **ONIC Philippines** | Junior Graphic Designer · 2022 |
+| **TNC Pro Team** | Multimedia Artist · 2021 |
+| **MPL Philippines S15** | Content Creation · 2025 |
+| **ULVL, Butters, Chantelle** | Broadcast and caster branding · 2021–22 |
 
 ### Community
 
-Volunteers Lead at **Seekers Guild** · Marketing Director at **AWS Student Builder Group PUP** · Community Partnerships Co-Lead at **GDG on Campus PUP** (previously Chief Creatives Officer) · Head of Visuals at **JBECP PUP** · Head Photographer at **DEVCON Manila** · Creatives Head, **Arduino Day Philippines 2025**
+| | |
+|---|---|
+| **Seekers Guild** | Volunteers Lead |
+| **AWS Student Builder Group PUP** | Marketing Director |
+| **GDG on Campus PUP** | Community Partnerships Co-Lead · formerly Chief Creatives Officer |
+| **JBECP PUP Manila** | Head of Visuals |
+| **DEVCON Manila** | Head Photographer |
+| **Arduino Day Philippines 2025** | Creatives Head |
 
 ### Recognition
 
-President's Lister, PUP · IPOPHL Socially Relevant Technologies — Champion (2022, 2023) · WIPO National Award for Inventors (2023) · Indonesia Inventors Day — Gold (2022) · DOST-SEI Imake.wemake — Winner (2024)
+| | |
+|---|---|
+| **2024** | DOST-SEI Imake.wemake — Winner |
+| **2023** | WIPO National Award for Inventors — Awardee |
+| **2023** | IPOPHL Socially Relevant Technologies — Champion |
+| **2022** | IPOPHL Socially Relevant Technologies — Champion |
+| **2022** | Indonesia Inventors Day — Gold Award |
+
+President's Lister, Polytechnic University of the Philippines.
 
 ---
 
